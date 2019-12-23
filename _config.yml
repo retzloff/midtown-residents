@@ -1,5 +1,6 @@
-remote_theme: bencentra/centrarium
+remote_theme: brianmaierjr/long-haul
 
 defaults:
-  - values:
+  -
+    values:
       layout: "default"

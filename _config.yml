@@ -1,6 +1,5 @@
-remote_theme: christianezeani/panthera-jekyll
+remote_theme: bencentra/centrarium
 
 defaults:
-  -
-    values:
+  - values:
       layout: "default"

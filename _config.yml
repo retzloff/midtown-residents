@@ -4,3 +4,4 @@ defaults:
   -
     values:
       layout: "default"
+theme: jekyll-theme-tactile
